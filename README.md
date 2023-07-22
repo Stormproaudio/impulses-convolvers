@@ -1,5 +1,5 @@
 # impulses-convolvers
-Storm Proaudio IRS Convolver Convolution Repository is the Company's Public use Only.
+This are Storm Proaudio IRS Convolver Convolution Repositor, These are meant Public use never Commercial.
 IRS Impulses, Impulse Response Files or Convolvers or Convolution Freverb Files are types of audio effects 
 that can be used in Mac OS, IOS, Android, Windows or Linux OS. Convolvers are files used in
 Convolution Reverb and requires a client app to load these Files. In Android you may use Viper3android or James DSP.
